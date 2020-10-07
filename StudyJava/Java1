@@ -1,0 +1,24 @@
+
+
+package Main;//陈瑞
+
+public class assertEquals1 {
+	
+	public Boolean assertEquals_dou(double a,double b){
+		
+		if (a==b){
+			
+			return true;
+		}
+		return false;
+	}
+	public Boolean assertEquals_int(int a,int b){
+		
+		if (a==b){
+			
+			return true;
+		}
+		return false;
+	}
+
+}
