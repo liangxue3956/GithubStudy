@@ -1,5 +1,5 @@
 package main;
-//求平均值
+//求平均值，gerui
 import java.util.ArrayList;
 
 public class  Average {
