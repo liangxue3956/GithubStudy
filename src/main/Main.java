@@ -9,11 +9,13 @@ public class Main {//成绩统计
 		arr.add(60);
 		arr.add(20);
 		arr.add(80);
+			
+		double average = Average.average(arr);
+		System.out.println("平均分为:"+average);
 		
 		
 	}
-	public static void Sort(ArrayList arr){
-		
-	}
-
+	
+	
+	
 }
